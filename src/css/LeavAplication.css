@@ -1,0 +1,52 @@
+.fontsizing{
+    font-size: 20px;
+}
+.flexdirections{
+    display: flex;
+    flex-direction: row;
+
+}
+.marginbottom{
+    margin-top: 1rem;
+}
+.backgroundcolor{
+    background-color: rgb(203, 203, 203);
+    width: 24rem;
+    height: 3rem;
+}
+.borderforform{
+    border: 1px solid black ;
+    width: 30rem;
+    height: 10rem;
+    border-radius: 5px;
+}
+.borderbottom{
+    border-bottom: 1px solid black;
+}
+.fontsizeing{
+    font-size: 20px;
+}
+.reasonforleave{
+    width: 36rem;
+    height: 4rem;
+    border: 1px solid black;
+}
+.reasonforleavetext{
+    position: absolute;
+    top: 20rem;
+    font-size: 20px;
+    color: black;
+    margin-left: 33.4rem;
+}
+.martgintopchange{
+    margin-top: -25px;
+    margin-left: -20px;
+}
+.mariginforbuytton{
+    margin-left: 61rem;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    font-weight: bold;
+    
+}
